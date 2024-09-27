@@ -1,0 +1,33 @@
+https://hackmd.io/@ianchen0524/SyTwMc8HR
+
+https://learn.microsoft.com/zh-tw/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=529863&redeem=L59LQP
+
+
+(門口)
+5ed75130b149457d840a01e4db8afa93
+https://aoai0601.openai.azure.com/
+
+
+(中間)
+e32a97707aa041cd92e560b6a7aa6785
+https://aoai0602.openai.azure.com/
+
+
+(講台)
+c3410b91761f499cb854ab5aa421a38b
+https://aoai0603.openai.azure.com/
+
+
+
+(部屬Name)
+gpt3516k
+
+
+pip install python-dotenv
+
+pip install openai
+
+
+
+
+

@@ -1,0 +1,17 @@
+https://learn.microsoft.com/zh-tw/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=529863&source=learn&redeem=GQNKR2
+
+
+
+端點 :
+https://openaijpeast07.openai.azure.com
+
+
+部署名稱：
+gpt-4o-mini
+
+gpt-4o-mini-2
+
+
+金鑰 :
+
+4e495586428a4605a77a4080d030e962
